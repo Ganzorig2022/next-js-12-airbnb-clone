@@ -66,3 +66,7 @@ https://account.mapbox.com/ - SIGN UP
 # 10 - Deply with env on vercel
 
 npm i -g vercel
+
+$ vercel env add MAPBOX_KEY
+
+https://stackoverflow.com/questions/65003531/application-installed-by-npm-eg-file-c-users-name-appdata-roaming-npm-ng-ps1
